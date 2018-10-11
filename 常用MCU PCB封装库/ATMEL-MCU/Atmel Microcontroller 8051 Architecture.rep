@@ -1,0 +1,27 @@
+CSV text has been written to file : Atmel Microcontroller 8051 Architecture.csv
+
+Library Component Count : 20
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+AT89C1051           8-Bit Microcontroller with 1K Flash ROM
+AT89C1051U          8-Bit Microcontroller with 1K Flash ROM
+AT89C2051           8-Bit Microcontroller with 2K Flash ROM
+AT89C2051x2         8-Bit Microcontroller with 2K Flash ROM
+AT89C4051           8-Bit Microcontroller with 4K Flash ROM
+AT89C51             8-Bit Microcontroller with 4K Flash ROM
+AT89C51RC           8-Bit Microcontroller with 32K Flash ROM
+AT89C52             8-Bit Microcontroller with 8K Flash ROM
+AT89C55WD           8-Bit Microcontroller with 20K Flash ROM
+AT89LS51            8-Bit Microcontroller with 4K ISP Flash ROM
+AT89LS52            8-Bit Microcontroller with 8K ISP Flash ROM
+AT89LS53            8-Bit Microcontroller with 12K ISP Flash ROM
+AT89LS8252          8-Bit Microcontroller with 8K ISP Flash ROM
+AT89LV51            8-Bit Microcontroller with 4K Flash ROM
+AT89LV52            8-Bit Microcontroller with 8K Flash ROM
+AT89LV55            8-Bit Microcontroller with 20K Flash ROM
+AT89S51             8-Bit Microcontroller with 4K ISP Flash ROM
+AT89S52             8-Bit Microcontroller with 8K ISP Flash ROM
+AT89S53             8-Bit Microcontroller with 12K ISP Flash ROM
+AT89S8252           8-Bit Microcontroller with 8K ISP Flash ROM
