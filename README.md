@@ -1,2 +1,2 @@
-# -GavinReferencePCBLib
+# GavinReferencePCBLib
 /GavinReferencePCBLib
